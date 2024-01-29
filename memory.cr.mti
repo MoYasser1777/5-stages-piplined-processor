@@ -1,0 +1,28 @@
+{D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/StackPointer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/StackPointer.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity StackPointer
+-- Compiling architecture Behavioral of StackPointer
+
+} {} {}} {D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/DataMemory .vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/DataMemory .vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DataMemory
+-- Compiling architecture Behavioral of DataMemory
+
+} {} {}} {D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ProtectMemory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ProtectMemory.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ProtectMemory
+-- Compiling architecture Behavioral of ProtectMemory
+
+} {} {}}

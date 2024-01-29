@@ -1,0 +1,7 @@
+force -freeze sim:/main/reset 1 0
+force -freeze sim:/main/clk 1 0, 0 {2 ps} -r 5
+force -freeze sim:/main/enable 1 0
+force -freeze sim:/main/in_port_data 00000000000000000000000000110000 0
+run
+force -freeze sim:/main/reset 0 0
+run

@@ -1,0 +1,2488 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode
+<<<<<<< HEAD
+Z1 !s110 1703589983
+!i10b 1
+Z2 !s108 1703589982.000000
+Z3 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/write_back_stage.vhd|
+Z4 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/write_back_stage.vhd|
+Z5 =======
+Z6 !s110 1702850273
+!i10b 1
+Z7 !s108 1702850273.000000
+R3
+R4
+R0
+<<<<<<< HEAD
+R1
+!i10b 1
+R2
+R3
+R4
+R5
+R6
+!i10b 1
+R7
+R3
+R4
+R0
+<<<<<<< HEAD
+Z8 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/write_back_stage.vhd
+Z9 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/write_back_stage.vhd
+R5
+R8
+R9
+R0
+<<<<<<< HEAD
+w1703585329
+R5
+w1702731532
+R0
+<<<<<<< HEAD
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/StackPointer.vhd|
+!i10b 1
+Z11 !s108 1703589975.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/triStateBuffer.vhd|
+Z13 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/triStateBuffer.vhd|
+R5
+Z14 !s110 1702851215
+!i10b 1
+Z15 !s108 1702851214.000000
+R12
+R13
+R0
+<<<<<<< HEAD
+R10
+!i10b 1
+R11
+R12
+R13
+R5
+R14
+!i10b 1
+R15
+R12
+R13
+R0
+<<<<<<< HEAD
+Z16 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/triStateBuffer.vhd
+Z17 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/triStateBuffer.vhd
+R5
+R16
+R17
+R0
+<<<<<<< HEAD
+Z18 w1702744595
+R5
+R18
+R0
+<<<<<<< HEAD
+Z19 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/regWithTSB.vhd
+!i10b 1
+R2
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/StackPointer.vhd|
+Z21 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/StackPointer.vhd|
+R5
+Z22 !s110 1703540855
+!i10b 1
+Z23 !s108 1703540855.000000
+R10
+Z24 !s107 D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/StackPointer.vhd|
+R0
+<<<<<<< HEAD
+!i122 3239
+R5
+R0
+<<<<<<< HEAD
+R19
+!i10b 1
+R2
+R20
+R21
+R5
+R22
+!i10b 1
+R23
+R10
+R24
+R0
+<<<<<<< HEAD
+Z25 w1701801158
+Z26 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z27 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z28 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3239
+R0
+Z29 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/StackPointer.vhd
+Z30 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/StackPointer.vhd
+R5
+w1702764320
+Z31 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/DataMemory .vhd
+R27
+Z32 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z33 !s110 1703589981
+8D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/StackPointer.vhd
+FD:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/StackPointer.vhd
+<<<<<<< HEAD
+Z34 !s110 1703589874
+!i10b 1
+Z35 !s110 1703583658
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/signExtend.vhd|
+Z37 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/signExtend.vhd|
+R5
+Z38 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/flagRegister.vhd
+!i10b 1
+Z39 w1703589117
+R36
+R37
+R0
+<<<<<<< HEAD
+R34
+!i10b 1
+R35
+R36
+R37
+R5
+R38
+!i10b 1
+R39
+R36
+R37
+R0
+<<<<<<< HEAD
+Z40 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/signExtend.vhd
+Z41 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/signExtend.vhd
+R5
+R40
+R41
+R0
+<<<<<<< HEAD
+Z42 w1701733523
+R5
+R42
+R0
+<<<<<<< HEAD
+Z43 !s110 1703589872
+!i10b 1
+Z44 !s108 1703589872.000000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/regWithTSB.vhd|
+Z46 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/regWithTSB.vhd|
+R5
+Z47 !s110 1702849826
+!i10b 1
+Z48 !s108 1702849826.000000
+R45
+R46
+R0
+<<<<<<< HEAD
+R43
+!i10b 1
+R44
+R45
+R46
+R5
+R47
+!i10b 1
+R48
+R45
+R46
+R0
+<<<<<<< HEAD
+Z49 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/regWithTSB.vhd
+R19
+R5
+R49
+R19
+R0
+<<<<<<< HEAD
+Z50 w1701733490
+R5
+R50
+R0
+<<<<<<< HEAD
+!i122 3229
+l51
+Z51 L16 140
+Z52 V<l<Kdm9@gn1jD?nPBHia90
+Z53 !s100 70VVzTDozY4CG?XD]K>5>3
+Z54 OV;C;2020.1;71
+32
+Z55 !s110 1703589976
+!i10b 1
+Z56 !s108 1703589976.000000
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/registerFile.vhd|
+Z58 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/registerFile.vhd|
+R5
+!i122 2536
+l51
+L16 143
+V=n@FUk@Pa:TNCg3aD5lgS2
+!s100 4j=L]eLjnQTY<[hU7zb9E1
+R54
+32
+Z59 !s110 1702853946
+!i10b 1
+Z60 !s108 1702853946.000000
+R57
+R58
+R0
+<<<<<<< HEAD
+R55
+!i10b 1
+R56
+R57
+R58
+R5
+R59
+!i10b 1
+R60
+R57
+R58
+R0
+<<<<<<< HEAD
+Z61 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/registerFile.vhd
+Z62 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/registerFile.vhd
+R5
+R61
+R62
+R0
+<<<<<<< HEAD
+w1703585445
+R5
+w1702853939
+R0
+<<<<<<< HEAD
+Z63 !s110 1703589718
+!i10b 1
+Z64 !s108 1703589718.000000
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/reg.vhd|
+Z66 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/reg.vhd|
+R5
+Z67 !s110 1702851214
+!i10b 1
+R15
+R65
+R66
+R0
+<<<<<<< HEAD
+Z68 L11 12
+R5
+R68
+R0
+<<<<<<< HEAD
+R63
+!i10b 1
+R64
+R65
+R66
+R5
+R67
+!i10b 1
+R15
+R65
+R66
+R0
+<<<<<<< HEAD
+Z69 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/reg.vhd
+Z70 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/reg.vhd
+R5
+R69
+R70
+R0
+<<<<<<< HEAD
+Z71 w1702849814
+R5
+R71
+R0
+<<<<<<< HEAD
+Z72 !s110 1703589982
+!i10b 1
+Z73 !s108 1703589981.000000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ProtectMemory.vhd|
+Z75 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ProtectMemory.vhd|
+R5
+Z76 !s110 1703540856
+!i10b 1
+R23
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ProtectMemory.vhd|
+Z78 !s107 D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ProtectMemory.vhd|
+R0
+<<<<<<< HEAD
+!i122 3238
+R5
+R0
+<<<<<<< HEAD
+R72
+!i10b 1
+R73
+R74
+R75
+R5
+R76
+!i10b 1
+R23
+R77
+R78
+R0
+<<<<<<< HEAD
+w1701801153
+R26
+R27
+R28
+!i122 3238
+R0
+Z79 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ProtectMemory.vhd
+Z80 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ProtectMemory.vhd
+R5
+w1703531933
+R31
+R27
+R32
+R33
+8D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ProtectMemory.vhd
+FD:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ProtectMemory.vhd
+<<<<<<< HEAD
+Z81 !s110 1703589878
+!i10b 1
+Z82 !s108 1703589877.000000
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/outPort.vhd|
+Z84 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/outPort.vhd|
+R5
+Z85 !s110 1702851220
+!i10b 1
+Z86 !s108 1702851220.000000
+R83
+R84
+R0
+<<<<<<< HEAD
+R68
+R5
+R68
+R0
+<<<<<<< HEAD
+R81
+!i10b 1
+R82
+R83
+R84
+R5
+R85
+!i10b 1
+R86
+R83
+R84
+R0
+<<<<<<< HEAD
+Z87 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/outPort.vhd
+Z88 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/outPort.vhd
+R5
+R87
+R88
+R0
+<<<<<<< HEAD
+Z89 w1703589328
+R5
+w1701900249
+R0
+<<<<<<< HEAD
+Z90 !s110 1703589980
+!i10b 1
+Z91 !s108 1703589980.000000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/mux4X1.vhd|
+Z93 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/mux4X1.vhd|
+!i113 1
+Z94 o-work work -2002 -explicit
+Z95 tExplicit 1 CvgOpt 0
+R0
+<<<<<<< HEAD
+R90
+!i10b 1
+R91
+R92
+R93
+R5
+R85
+!i10b 1
+Z96 w1703589238
+R92
+R93
+R0
+<<<<<<< HEAD
+Z97 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/mux4X1.vhd
+Z98 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/mux4X1.vhd
+R5
+R97
+R98
+R0
+<<<<<<< HEAD
+Z99 w1703589292
+R5
+w1701795721
+R0
+<<<<<<< HEAD
+R28
+DEx4 work 6 memory 0 22 7fC6>1O[0FEVF7S;X<00X0
+!i122 3223
+l97
+L13 245
+VP]07ZdMFe>L]RaJ75MI1W1
+!s100 oioeA0^`Kc`FbN[03213I3
+R54
+32
+Z100 !s110 1703589879
+!i10b 1
+Z101 !s108 1703589878.000000
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/Memory.vhd|
+Z103 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/Memory.vhd|
+R5
+R32
+DEx4 work 6 memory 0 22 ::i8WY5FMg:UX]3NO88]22
+l99
+L15
+V^DFam81<@Nj97_3WOCoe63
+!s100 HR2le^PBE2e[6R9M3DRCn0
+Z104 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/DataMemory .vhd|
+32
+R35
+!i10b 1
+Z105 !s108 1703583658.000000
+Z106 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/Memory.vhd|
+Z107 !s107 D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/Memory.vhd|
+R0
+<<<<<<< HEAD
+R100
+!i10b 1
+R101
+R102
+R103
+R5
+R35
+!i10b 1
+R105
+R106
+R107
+R0
+<<<<<<< HEAD
+w1701891955
+R26
+R27
+R28
+!i122 3223
+R0
+Z108 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/Memory.vhd
+Z109 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/Memory.vhd
+R5
+w1703583212
+R31
+R27
+R32
+R33
+8D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/Memory.vhd
+FD:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/Memory.vhd
+<<<<<<< HEAD
+Z110 !s110 1703589978
+!i10b 1
+Z111 !s108 1703589977.000000
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/fetchDecodeMain.vhd|
+Z113 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/fetchDecodeMain.vhd|
+R5
+Z114 !s110 1702851218
+!i10b 1
+Z115 !s108 1703589979.000000
+R112
+R113
+R0
+<<<<<<< HEAD
+R110
+!i10b 1
+R111
+R112
+R113
+R5
+R114
+!i10b 1
+R115
+R112
+R113
+R0
+<<<<<<< HEAD
+Z116 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/fetchDecodeMain.vhd
+Z117 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/fetchDecodeMain.vhd
+R5
+R116
+R117
+R0
+<<<<<<< HEAD
+w1703589944
+R5
+w1701899785
+R0
+<<<<<<< HEAD
+Z118 !s110 1703589875
+!i10b 1
+Z119 !s108 1703589874.000000
+Z120 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/instruction_memory.vhd|
+Z121 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/instruction_memory.vhd|
+R5
+R114
+!i10b 1
+Z122 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/flagRegister.vhd
+R120
+R121
+R0
+<<<<<<< HEAD
+R118
+!i10b 1
+R119
+R120
+R121
+R5
+R114
+!i10b 1
+R122
+R120
+R121
+R0
+<<<<<<< HEAD
+Z123 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/instruction_memory.vhd
+Z124 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/instruction_memory.vhd
+R5
+R123
+R124
+R0
+<<<<<<< HEAD
+w1703585331
+R5
+w1702850255
+R0
+<<<<<<< HEAD
+Z125 !s110 1703589979
+!i10b 1
+Z126 !s108 1703589978.000000
+Z127 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/genericReg.vhd|
+Z128 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/genericReg.vhd|
+R5
+R114
+!i10b 1
+R115
+R127
+R128
+R0
+<<<<<<< HEAD
+R125
+!i10b 1
+R126
+R127
+R128
+R5
+R114
+!i10b 1
+R115
+R127
+R128
+R0
+<<<<<<< HEAD
+Z129 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/genericReg.vhd
+Z130 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/genericReg.vhd
+R5
+R129
+R130
+R0
+<<<<<<< HEAD
+Z131 w1701794936
+R5
+R131
+R0
+<<<<<<< HEAD
+R122
+Z132 VlYem0mN5j5oNVVW^9`T`b3
+Z133 !s100 m8:AW[@;0^;TZhk10Kij^3
+R54
+32
+Z134 !s110 1703589984
+!i10b 1
+Z135 !s108 1703589984.000000
+Z136 !s110 1701801598
+Z137 !s108 1701801598.000000
+!i113 1
+R94
+R95
+R0
+<<<<<<< HEAD
+R134
+!i10b 1
+R135
+Z138 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/flagsRegister.vhd|
+Z139 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/flagsRegister.vhd|
+R5
+R136
+!i10b 1
+R137
+Z140 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/flagsRegister.vhd
+Z141 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/flagsRegister.vhd
+R0
+<<<<<<< HEAD
+R140
+R141
+R5
+Z142 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/flagRegister.vhd|
+R122
+R0
+<<<<<<< HEAD
+R96
+R5
+w1701795691
+R0
+<<<<<<< HEAD
+!s108 1703586967.000000
+Z143 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/flagRegister.vhd|
+R142
+R5
+Z144 !s108 1702851219.000000
+R143
+R142
+R0
+<<<<<<< HEAD
+R38
+R122
+R5
+R38
+R122
+R0
+<<<<<<< HEAD
+Z145 w1701804903
+R5
+R145
+R0
+<<<<<<< HEAD
+Z146 !s110 1703589977
+!i10b 1
+R111
+Z147 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/fetch_stage.vhd|
+Z148 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/fetch_stage.vhd|
+R5
+Z149 !s110 1702851217
+!i10b 1
+Z150 !s108 1702851217.000000
+R147
+R148
+R0
+<<<<<<< HEAD
+R146
+!i10b 1
+R111
+R147
+R148
+R5
+R149
+!i10b 1
+R150
+R147
+R148
+R0
+<<<<<<< HEAD
+w1703589710
+R5
+w1701958423
+R0
+<<<<<<< HEAD
+R90
+!i10b 1
+R115
+Z151 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/executeStage.vhd|
+Z152 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/executeStage.vhd|
+R5
+Z153 !s110 1702850270
+!i10b 1
+Z154 !s108 1702850270.000000
+R151
+R152
+R0
+<<<<<<< HEAD
+R90
+!i10b 1
+R115
+R151
+R152
+R5
+R153
+!i10b 1
+R154
+R151
+R152
+R0
+<<<<<<< HEAD
+Z155 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/executeStage.vhd
+Z156 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/executeStage.vhd
+R5
+R155
+R156
+R0
+<<<<<<< HEAD
+R39
+R5
+w1701902819
+R0
+<<<<<<< HEAD
+R146
+!i10b 1
+R56
+Z157 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/decodeStage.vhd|
+Z158 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/decodeStage.vhd|
+R5
+Z159 w1703589427
+!i10b 1
+Z160 !s108 1702851216.000000
+R157
+R158
+R0
+<<<<<<< HEAD
+R146
+!i10b 1
+R56
+R157
+R158
+R5
+R159
+!i10b 1
+R160
+R157
+R158
+R0
+<<<<<<< HEAD
+R159
+R5
+w1702851100
+R0
+<<<<<<< HEAD
+!s110 1703589873
+!i10b 1
+!s108 1703589873.000000
+Z161 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/decoder3x8.vhd|
+Z162 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/decoder3x8.vhd|
+R5
+Z163 !s110 1702851216
+!i10b 1
+Z164 !s108 1702851215.000000
+R161
+R162
+R0
+<<<<<<< HEAD
+!i122 3237
+R5
+R0
+<<<<<<< HEAD
+R33
+!i10b 1
+R73
+Z165 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/DataMemory .vhd|
+R104
+R5
+R22
+!i10b 1
+R23
+Z166 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/DataMemory .vhd|
+Z167 !s107 D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/DataMemory .vhd|
+R0
+<<<<<<< HEAD
+R28
+!i122 3237
+R0
+R31
+Z168 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/DataMemory .vhd
+R5
+R32
+dD:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode
+8D:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/DataMemory .vhd
+FD:/University/Third year/First Semester/Architecture/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/DataMemory .vhd
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Awrite_back_stage_arch
+R26
+R27
+R28
+Z169 DEx4 work 16 write_back_stage 0 22 n0LNIWhQ>[Xm3kDEkJelX1
+!i122 3240
+l25
+Z170 L22 33
+Z171 V2ggGaR_m8HIG:d3cQlkPo0
+Z172 !s100 K_Ol]DLbk3T^hZZAWFnO=2
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L5 1
+Z173 Vn0LNIWhQ>[Xm3kDEkJelX1
+Z174 !s100 ZBhE[A9Gm[YY1:YABE5092
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R26
+R27
+R28
+!i122 3240
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Atristatearch
+R27
+R28
+Z175 DEx4 work 14 tristatebuffer 0 22 i^0TIJ4a4E@[BamcIhO0^2
+!i122 3228
+l14
+Z176 L13 8
+Z177 VJRDT[L51Rg2fWge^`G=Fo1
+Z178 !s100 WHC1We?5O^n0MSg8bBKjH0
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L5 1
+Z179 Vi^0TIJ4a4E@[BamcIhO0^2
+Z180 !s100 GJT9c5S_mHa67Kic3_dS:1
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R27
+R28
+!i122 3228
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l15
+L12
+Z181 VTW[Qg79CV<2?LFS]6_Vki1
+Z182 !s100 @zcbHM65?I2d1`Bneb2k^3
+R104
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Abehavioral
+R31
+R27
+R32
+Z183 DEx4 work 12 stackpointer 0 22 lICAj7>NXJPIzQ1<V8:nT0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L5
+Z184 VlICAj7>NXJPIzQ1<V8:nT0
+Z185 !s100 Dd:Cb^d]DfXoNYk87:OCd2
+R104
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Asignextendarch
+R27
+R28
+Z186 DEx4 work 10 signextend 0 22 YBGDbIU63Iczl[OX0e_>U1
+!i122 3215
+l10
+L9 7
+Z187 V^I6mYLJ40WeaSiXZdehO42
+Z188 !s100 P9kb3l4:<I<g4eI]hije01
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L4 1
+Z189 VYBGDbIU63Iczl[OX0e_>U1
+Z190 !s100 lBIE6Cbe@<U]I<=5kkhid2
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R27
+R28
+!i122 3215
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Aregwithtsbarch
+R27
+R28
+Z191 DEx4 work 10 regwithtsb 0 22 @`N7j7W8RF:==XA;H;=1e1
+!i122 3212
+l36
+Z192 L16 24
+Z193 VW^fXdMKB=iE_Kz2algmW<1
+Z194 !s100 h2MeikNk1Tj6EL9mYAYUZ0
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L5 1
+Z195 V@`N7j7W8RF:==XA;H;=1e1
+Z196 !s100 9MWRmK<09aRMaReB[6IZ90
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R27
+R28
+!i122 3212
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Aregfilearch
+R27
+R28
+Z197 DEx4 work 12 registerfile 0 22 KMn?>36==`j`7``5:6gi92
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L4 1
+Z198 VKMn?>36==`j`7``5:6gi92
+Z199 !s100 HP;[4gYQ_6C=RJ;8?g3Nc3
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R27
+R28
+!i122 3229
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+V_mkSZVVCfjEMoUFeDKKUz0
+!s100 mebU7km1SWlOY5CfRX0SM3
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Aregarch
+R27
+R28
+Z200 DEx4 work 3 reg 0 22 6Q5k8oT<MaChn@mH3CNQV3
+!i122 3192
+l12
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L4 1
+Z201 V6Q5k8oT<MaChn@mH3CNQV3
+Z202 !s100 FcCMjI0I1@d^KDb09RlT^3
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R27
+R28
+!i122 3192
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l20
+L16
+Z203 VG4Y]K3^TWGNiTdY<b`mhJ2
+Z204 !s100 Se:5Yj5bI]=`jE9ji3mk90
+R104
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Abehavioral
+R31
+R27
+R32
+Z205 DEx4 work 13 protectmemory 0 22 MIGShnK0DFFOgFIYLXeK81
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L5
+Z206 VMIGShnK0DFFOgFIYLXeK81
+Z207 !s100 5^nQn?E?E3DYfOc6WPek]2
+R104
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+Z208 V8[S]R=TbIbbNbbji]JDW20
+Z209 !s100 f_`NF6lIXHb_CHESd=>YU3
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Aarchoutport
+R27
+R28
+Z210 DEx4 work 7 outport 0 22 KEm7[8b^^P9LPI5GLADeU1
+!i122 3221
+l13
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L4 1
+Z211 VKEm7[8b^^P9LPI5GLADeU1
+Z212 !s100 GXeDmK4;k@e:MiF@[?llS0
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R27
+R28
+!i122 3221
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Aarchmux4x1
+R27
+R28
+Z213 DEx4 work 6 mux4x1 0 22 ?J^gkYLj2zn3mQb5V4go[3
+!i122 3236
+l13
+Z214 L12 10
+Z215 V<ic2CkAS_>?_aVMDNzYV=1
+Z216 !s100 P`cANL4J4R5fnT>KT;>=D3
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L5 1
+Z217 V?J^gkYLj2zn3mQb5V4go[3
+Z218 !s100 DBNdi<agao`1mmlgiz2eL0
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R27
+R28
+!i122 3236
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Abehavioral
+R31
+R27
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L5
+V::i8WY5FMg:UX]3NO88]22
+!s100 N1f9S@8UzQAoKPhDD;geM2
+R104
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Amain_arch
+R27
+R28
+Z219 DEx4 work 4 main 0 22 @@WnP:MJ56@OOV^beSYD?3
+!i122 3232
+l90
+L14 137
+VQMl4==n4@`bgKLZkI:GlE1
+!s100 eB7ePS9@<nc^;o7EYflPc0
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L3 1
+Z220 V@@WnP:MJ56@OOV^beSYD?3
+Z221 !s100 JkXkMOdhTNQeHoE`81HmV0
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R27
+R28
+!i122 3232
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Ainstructionmemoryarch
+R26
+R27
+R28
+Z222 DEx4 work 18 instruction_memory 0 22 gHk0XXaP@lIaD_Hj4gURI0
+!i122 3216
+l21
+L13 56
+VG^=GOo4nfTWS?CICiBXH41
+!s100 9KaPf[h3?IL1@R9<1_TT73
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L6 1
+VgHk0XXaP@lIaD_Hj4gURI0
+!s100 Ln>WX^SBGPBNLYZkXY7RG0
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R26
+R27
+R28
+!i122 3216
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Agenericregarch
+R27
+R28
+Z223 DEx4 work 10 genericreg 0 22 3fDT;j2z3IZ9HcaP1A]z_1
+!i122 3233
+l16
+Z224 L15 19
+Z225 V^WAPk``BQE_C<dCKZKhQ60
+Z226 !s100 :PA_We0IzGdeRYOe6@2gN0
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L4 1
+Z227 V3fDT;j2z3IZ9HcaP1A]z_1
+Z228 !s100 QQ>Ci`D8MVSDXhd6DB4?93
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R27
+R28
+!i122 3233
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Aarchflagsregister
+R26
+R27
+R28
+Z229 DEx4 work 13 flagsregister 0 22 m<U:0OQC2bdl70md^gjEe3
+!i122 3242
+l13
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L5 1
+Z230 Vm<U:0OQC2bdl70md^gjEe3
+Z231 !s100 2V[I82mg@hR`Y`Y23JCEA1
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R26
+R27
+R28
+!i122 3242
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Aarchflagregister
+R26
+R27
+R28
+DEx4 work 12 flagregister 0 22 oE:3XBa6OO7o;]Tz6^H>P1
+!i122 3125
+l13
+Z232 L12 12
+Vof?cG]mzDYmb2`iCNfCD70
+!s100 e2NNBOdYNC?T3>i5ic[SV1
+R54
+32
+Z233 !s110 1703586967
+!i10b 1
+R144
+R143
+R142
+!i113 1
+R94
+R95
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L5 1
+VoE:3XBa6OO7o;]Tz6^H>P1
+!s100 IWcS6zPo?:7PNOT1EECom2
+R54
+32
+R233
+!i10b 1
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R26
+R27
+R28
+!i122 3125
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Afetchstagearch
+R26
+R27
+R28
+DEx4 work 11 fetch_stage 0 22 43zj;I>E<dCGM572[C6J71
+!i122 3231
+l31
+L18 55
+VzYg6i6n0SBm<PS@5fS2S;0
+!s100 569hMYV@T<Mo`lnEn=]cn0
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R26
+R27
+R28
+!i122 3231
+R0
+Z234 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/fetch_stage.vhd
+Z235 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/fetch_stage.vhd
+l0
+L5 1
+V43zj;I>E<dCGM572[C6J71
+!s100 ^kT]`H=l@eX:7YCFP0CDU1
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Aarchexecutestage
+R27
+R28
+DEx4 work 12 executestage 0 22 Z<9`zHTJT[]l]glkgnhij1
+!i122 3235
+l75
+L18 101
+Vj[ij^`g5Mg<nAiVGWEj8n1
+!s100 ZU>UiEYWejV71;`L@=oe=0
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L5 1
+VZ<9`zHTJT[]l]glkgnhij1
+!s100 =]IN:g:j5Ro2GUT2?M4aK0
+R54
+32
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R27
+R28
+!i122 3235
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Adecodearch
+R27
+R28
+DEx4 work 11 decodestage 0 22 27_fG6[eQ?cRa73O;lHXS1
+!i122 3230
+l47
+L23 117
+V?XnH;lU[4]cnNdX[[L2280
+!s100 n_im[VU;MAh?8VjOL5=bP2
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+R27
+R28
+!i122 3230
+R0
+Z236 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/decodeStage.vhd
+Z237 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/decodeStage.vhd
+l0
+L4 1
+V27_fG6[eQ?cRa73O;lHXS1
+!s100 ZjK]Ee1Sa5>IdcIfX;fhF1
+R54
+32
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Amy_decoder_3_8
+R27
+R28
+Z238 DEx4 work 10 decoder3x8 0 22 ?HjeAZzaUAmWBE`W8h5:G3
+!i122 3214
+l16
+Z239 L14 18
+Z240 VG7D=l]QRWZ;`CKn]FeXBV1
+Z241 !s100 <f<_bk0^?leFilZV>?>9T3
+R54
+32
+R163
+!i10b 1
+R164
+R161
+R162
+!i113 1
+R94
+R95
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l20
+L17
+Z242 VAenVnzzU<O4iNGXLgmINL3
+Z243 !s100 ScCe=JJXK5Zom16:8mkWo1
+R104
+32
+R22
+!i10b 1
+R23
+R166
+R167
+!i113 1
+R94
+R95
+R0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+!i113 1
+R94
+R95
+R0
+Abehavioral
+R31
+R27
+R32
+Z244 DEx4 work 10 datamemory 0 22 N4IRMh5PHV``Y9B6V7bmn0
+>>>>>>> 41c0b62fa1be7ac66711b5671b9137413328f863
+l0
+L5
+Z245 VN4IRMh5PHV``Y9B6V7bmn0
+Z246 !s100 UdZQ<2FM5]e5Rd_<ok]:81
+OV;C;10.5b;63
+32
+R0
+Ealu
+Z247 w1703673081
+R26
+R27
+R28
+!i122 5567
+R0
+Z248 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ALU.vhd
+Z249 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ALU.vhd
+l0
+L5 1
+VP=Q=5LHe25T_XjO9o=:c41
+!s100 h5Wi=ZJh56b[Zje36N6SO0
+R54
+32
+Z250 !s110 1703681118
+!i10b 1
+Z251 !s108 1703681117.000000
+Z252 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ALU.vhd|
+Z253 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/ALU.vhd|
+!i113 1
+R94
+R95
+Aarchalu
+R26
+R27
+R28
+DEx4 work 3 alu 0 22 P=Q=5LHe25T_XjO9o=:c41
+!i122 5567
+l24
+L13 253
+V^AO7>RBC5O:@BZdB2Oc`m3
+!s100 7JQZX[a3:8XegAP]U`1>Z3
+R54
+32
+R250
+!i10b 1
+R251
+R252
+R253
+!i113 1
+R94
+R95
+Edatamemory
+Z254 w1703590173
+R26
+R27
+R28
+!i122 5571
+R0
+R31
+R168
+l0
+L5 1
+R245
+R246
+R54
+32
+Z255 !s110 1703681122
+!i10b 1
+Z256 !s108 1703681121.000000
+R165
+R104
+!i113 1
+R94
+R95
+Abehavioral
+R26
+R27
+R28
+R244
+!i122 5571
+l20
+L17 23
+R242
+R243
+R54
+32
+R255
+!i10b 1
+R256
+R165
+R104
+!i113 1
+R94
+R95
+Edecoder3x8
+Z257 w1701733455
+R27
+R28
+!i122 5546
+R0
+Z258 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/decoder3x8.vhd
+Z259 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/decoder3x8.vhd
+l0
+L5 1
+V?HjeAZzaUAmWBE`W8h5:G3
+!s100 K9c@n72]HIBf2;fGkd@iP3
+R54
+32
+Z260 !s110 1703680457
+!i10b 1
+Z261 !s108 1703680456.000000
+R161
+R162
+!i113 1
+R94
+R95
+Amy_decoder_3_8
+R27
+R28
+R238
+!i122 5546
+l16
+R239
+R240
+R241
+R54
+32
+R260
+!i10b 1
+R261
+R161
+R162
+!i113 1
+R94
+R95
+Edecodestage
+Z262 w1703681099
+R27
+R28
+!i122 5563
+R0
+R236
+R237
+l0
+L4 1
+VzN]5PF3R[8`aUQ;ePlQ_M2
+!s100 S1GhK1WT9C;8V=e`Wf1Mg0
+R54
+32
+Z263 !s110 1703681114
+!i10b 1
+Z264 !s108 1703681113.000000
+R157
+R158
+!i113 1
+R94
+R95
+Adecodearch
+R27
+R28
+DEx4 work 11 decodestage 0 22 zN]5PF3R[8`aUQ;ePlQ_M2
+!i122 5563
+l48
+L23 124
+VEnQf9UT;M@;b9?fkn^=VX3
+!s100 Y6g=hkmMledSU:Un@i7[o1
+R54
+32
+R263
+!i10b 1
+R264
+R157
+R158
+!i113 1
+R94
+R95
+Eexecutestage
+Z265 w1703670986
+R27
+R28
+!i122 5568
+R0
+R155
+R156
+l0
+L5 1
+V1Z=Xi4GDzPX8IN]K0Uclf2
+!s100 UHFGUMgB<93@16C3Pz]fO1
+R54
+32
+Z266 !s110 1703681119
+!i10b 1
+Z267 !s108 1703681118.000000
+R151
+R152
+!i113 1
+R94
+R95
+Aarchexecutestage
+R27
+R28
+DEx4 work 12 executestage 0 22 1Z=Xi4GDzPX8IN]K0Uclf2
+!i122 5568
+l78
+L21 106
+V1_K:af46A^P>I[DKWlf[Y2
+!s100 z4mOaj?MNDUSNV>?^31jD2
+R54
+32
+R266
+!i10b 1
+R267
+R151
+R152
+!i113 1
+R94
+R95
+Efetch_stage
+Z268 w1703679849
+R26
+R27
+R28
+!i122 5565
+R0
+R234
+R235
+l0
+L5 1
+VJ7PBM=6Mz8ZGN1fKGV7gO2
+!s100 QM6TQ7?<UKRK>=cDHMdc`2
+R54
+32
+Z269 !s110 1703681116
+!i10b 1
+Z270 !s108 1703681115.000000
+R147
+R148
+!i113 1
+R94
+R95
+Afetchstagearch
+R26
+R27
+R28
+DEx4 work 11 fetch_stage 0 22 J7PBM=6Mz8ZGN1fKGV7gO2
+!i122 5565
+l32
+L19 70
+VQB4aBWnbFJRdg8LWKRDdW0
+!s100 ZOb5j`MS:_PEQ5O9O3_IT0
+R54
+32
+R269
+!i10b 1
+R270
+R147
+R148
+!i113 1
+R94
+R95
+Eflagregister
+R0
+Eflagsregister
+R96
+R26
+R27
+R28
+!i122 5558
+R0
+R140
+R141
+l0
+L5 1
+R230
+R231
+R54
+32
+Z271 !s110 1703680468
+!i10b 1
+Z272 !s108 1703680467.000000
+R138
+R139
+!i113 1
+R94
+R95
+Aarchflagsregister
+R26
+R27
+R28
+R229
+!i122 5558
+l13
+R232
+R132
+R133
+R54
+32
+R271
+!i10b 1
+R272
+R138
+R139
+!i113 1
+R94
+R95
+Eforwardingunit
+Z273 w1703589270
+R26
+R27
+R28
+!i122 5541
+R0
+Z274 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/forwardingUnit.vhd
+Z275 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/forwardingUnit.vhd
+l0
+L5 1
+VHnNZ8V=Yf_lQ7XFJbXZ:g2
+!s100 ezS9jH>`eR2`C=7P?l;NY3
+R54
+32
+Z276 !s110 1703680449
+!i10b 1
+Z277 !s108 1703680448.000000
+Z278 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/forwardingUnit.vhd|
+Z279 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/forwardingUnit.vhd|
+!i113 1
+R94
+R95
+Aarchforwardingunit
+R26
+R27
+R28
+DEx4 work 14 forwardingunit 0 22 HnNZ8V=Yf_lQ7XFJbXZ:g2
+!i122 5541
+l14
+L13 22
+V6YF]T<aX_olm0oI7b`W2H2
+!s100 WQ[jTBfF]5]=52z7LPP472
+R54
+32
+R276
+!i10b 1
+R277
+R278
+R279
+!i113 1
+R94
+R95
+Egenericreg
+R131
+R27
+R28
+!i122 5550
+R0
+R129
+R130
+l0
+L4 1
+R227
+R228
+R54
+32
+Z280 !s110 1703680461
+!i10b 1
+Z281 !s108 1703680460.000000
+R127
+R128
+!i113 1
+R94
+R95
+Agenericregarch
+R27
+R28
+R223
+!i122 5550
+l16
+R224
+R225
+R226
+R54
+32
+R280
+!i10b 1
+R281
+R127
+R128
+!i113 1
+R94
+R95
+Einstruction_memory
+Z282 w1703612626
+Z283 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+Z284 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z285 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R26
+R27
+R28
+!i122 5464
+R0
+R123
+R124
+l0
+L8 1
+Vf7N905`LQ29YOU]:D3C_k1
+!s100 GPPJImb:azzA6WW5T]4la2
+R54
+32
+Z286 !s110 1703679068
+!i10b 1
+Z287 !s108 1703679068.000000
+R120
+R121
+!i113 1
+R94
+R95
+Ainstruction_memory_arch
+R283
+R284
+R285
+R26
+R27
+R28
+DEx4 work 18 instruction_memory 0 22 f7N905`LQ29YOU]:D3C_k1
+!i122 5464
+l35
+L15 23
+VZaZg85`58MN4Cgc7]j[EY1
+!s100 lo2T@W<gikie>IoHP8G7R0
+R54
+32
+R286
+!i10b 1
+R287
+R120
+R121
+!i113 1
+R94
+R95
+Ainstructionmemoryarch
+R26
+R27
+R28
+R222
+!i122 3640
+l21
+L13 55
+V;I<C^d3IG_6zCG^m5;OmX0
+!s100 9SgK^0Z7F[A<?7o:3dW7m1
+R54
+32
+!s110 1703610675
+!i10b 1
+!s108 1703610675.000000
+R120
+R121
+!i113 1
+R94
+R95
+w1703610667
+Emain
+Z288 w1703681103
+R27
+R28
+!i122 5566
+R0
+R116
+R117
+l0
+L3 1
+R220
+R221
+R54
+32
+Z289 !s110 1703681117
+!i10b 1
+Z290 !s108 1703681116.000000
+R112
+R113
+!i113 1
+R94
+R95
+Amain_arch
+R27
+R28
+R219
+!i122 5566
+l108
+L14 168
+VD<OTWK[hR7EPH7meIf<f]3
+!s100 76mob1PP``:KDlzE;B;EN1
+R54
+32
+R289
+!i10b 1
+R290
+R112
+R113
+!i113 1
+R94
+R95
+Ememory
+Z291 w1703632768
+R26
+R27
+R28
+!i122 5572
+R0
+R108
+R109
+l0
+L5 1
+V>4[lU8=59;NM5I91>m3`R0
+!s100 FnO;_Bj`^lJ@=cBX^U0Wj1
+R54
+32
+Z292 !s110 1703681123
+!i10b 1
+Z293 !s108 1703681122.000000
+R102
+R103
+!i113 1
+R94
+R95
+Abehavioral
+R26
+R27
+R28
+DEx4 work 6 memory 0 22 >4[lU8=59;NM5I91>m3`R0
+!i122 5572
+l100
+L16 228
+VkX]65cnLgT^Vd2@>Q7NNh0
+!s100 D@D@a==DnMfnFmTbbO]Gi1
+R54
+32
+R292
+!i10b 1
+R293
+R102
+R103
+!i113 1
+R94
+R95
+Emux4x1
+R99
+R27
+R28
+!i122 5569
+R0
+R97
+R98
+l0
+L5 1
+R217
+R218
+R54
+32
+Z294 !s110 1703681120
+!i10b 1
+Z295 !s108 1703681119.000000
+R92
+R93
+!i113 1
+R94
+R95
+Aarchmux4x1
+R27
+R28
+R213
+!i122 5569
+l13
+R214
+R215
+R216
+R54
+32
+R294
+!i10b 1
+R295
+R92
+R93
+!i113 1
+R94
+R95
+Emux8x1
+Z296 w1703589311
+R27
+R28
+!i122 5575
+R0
+Z297 8C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/mux8X1.vhd
+Z298 FC:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/mux8X1.vhd
+l0
+L5 1
+V0XUP4:Xl<n[OD`1ea;iYj0
+!s100 n>HG:OR_RnadIF2:1T7:W2
+R54
+32
+Z299 !s110 1703681125
+!i10b 1
+Z300 !s108 1703681124.000000
+Z301 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/mux8X1.vhd|
+Z302 !s107 C:/Users/lenovo/Desktop/Third Year/Arch/Project/5-Stage-Pipelined-Processor/Phase1/2. Decode/mux8X1.vhd|
+!i113 1
+R94
+R95
+Aarchmux8x1
+R27
+R28
+Z303 DEx4 work 6 mux8x1 0 22 0XUP4:Xl<n[OD`1ea;iYj0
+!i122 5575
+l13
+Z304 L12 18
+Z305 VGGGKM9Y?FD<=Jna8oVEX@0
+Z306 !s100 m2YRXaz962C<`bQAb=G2e1
+R54
+32
+R299
+!i10b 1
+R300
+R301
+R302
+!i113 1
+R94
+R95
+Eoutport
+R89
+R27
+R28
+!i122 5570
+R0
+R87
+R88
+l0
+L4 1
+R211
+R212
+R54
+32
+Z307 !s110 1703681121
+!i10b 1
+Z308 !s108 1703681120.000000
+R83
+R84
+!i113 1
+R94
+R95
+Aarchoutport
+R27
+R28
+R210
+!i122 5570
+l13
+R68
+R208
+R209
+R54
+32
+R307
+!i10b 1
+R308
+R83
+R84
+!i113 1
+R94
+R95
+Eprotectmemory
+R254
+R26
+R27
+R28
+!i122 5573
+R0
+R79
+R80
+l0
+L5 1
+R206
+R207
+R54
+32
+R292
+!i10b 1
+Z309 !s108 1703681123.000000
+R74
+R75
+!i113 1
+R94
+R95
+Abehavioral
+R26
+R27
+R28
+R205
+!i122 5573
+l20
+L16 20
+R203
+R204
+R54
+32
+R292
+!i10b 1
+R309
+R74
+R75
+!i113 1
+R94
+R95
+Ereg
+Z310 w1703665800
+R27
+R28
+!i122 5559
+R0
+R69
+R70
+l0
+L4 1
+R201
+R202
+R54
+32
+Z311 !s110 1703681111
+!i10b 1
+Z312 !s108 1703681110.000000
+R65
+R66
+!i113 1
+R94
+R95
+Aregarch
+R27
+R28
+R200
+!i122 5559
+l12
+R68
+V5lV3QThAGae_eU6i`PFUM0
+!s100 CYH]Kh0Dmd9Dc_zjl`h0]2
+R54
+32
+R311
+!i10b 1
+R312
+R65
+R66
+!i113 1
+R94
+R95
+Eregisterfile
+Z313 w1703680424
+R27
+R28
+!i122 5562
+R0
+R61
+R62
+l0
+L4 1
+R198
+R199
+R54
+32
+Z314 !s110 1703681113
+!i10b 1
+Z315 !s108 1703681112.000000
+R57
+R58
+!i113 1
+R94
+R95
+Aregfilearch
+R27
+R28
+R197
+!i122 5562
+l51
+R51
+R52
+R53
+R54
+32
+R314
+!i10b 1
+R315
+R57
+R58
+!i113 1
+R94
+R95
+Eregwithtsb
+R50
+R27
+R28
+!i122 5561
+R0
+R49
+R19
+l0
+L5 1
+R195
+R196
+R54
+32
+Z316 !s110 1703681112
+!i10b 1
+Z317 !s108 1703681111.000000
+R45
+R46
+!i113 1
+R94
+R95
+Aregwithtsbarch
+R27
+R28
+R191
+!i122 5561
+l36
+R192
+R193
+R194
+R54
+32
+R316
+!i10b 1
+R317
+R45
+R46
+!i113 1
+R94
+R95
+Esignextend
+R42
+R27
+R28
+!i122 5564
+R0
+R40
+R41
+l0
+L4 1
+R189
+R190
+R54
+32
+Z318 !s110 1703681115
+!i10b 1
+Z319 !s108 1703681114.000000
+R36
+R37
+!i113 1
+R94
+R95
+Asignextendarch
+R27
+R28
+R186
+!i122 5564
+l10
+L9 7
+R187
+R188
+R54
+32
+R318
+!i10b 1
+R319
+R36
+R37
+!i113 1
+R94
+R95
+Estackpointer
+R25
+R26
+R27
+R28
+!i122 5555
+R0
+R29
+R30
+l0
+L5 1
+R184
+R185
+R54
+32
+Z320 !s110 1703680465
+!i10b 1
+Z321 !s108 1703680465.000000
+R20
+R21
+!i113 1
+R94
+R95
+Abehavioral
+R26
+R27
+R28
+R183
+!i122 5555
+l15
+L12 21
+R181
+R182
+R54
+32
+R320
+!i10b 1
+R321
+R20
+R21
+!i113 1
+R94
+R95
+Etristatebuffer
+R18
+R27
+R28
+!i122 5560
+R0
+R16
+R17
+l0
+L5 1
+R179
+R180
+R54
+32
+R311
+!i10b 1
+R317
+R12
+R13
+!i113 1
+R94
+R95
+Atristatearch
+R27
+R28
+R175
+!i122 5560
+l14
+R176
+R177
+R178
+R54
+32
+R311
+!i10b 1
+R317
+R12
+R13
+!i113 1
+R94
+R95
+Ewrite_back_stage
+Z322 w1703643181
+R26
+R27
+R28
+!i122 5574
+R0
+Z323 8C:\Users\lenovo\Desktop\Third Year\Arch\Project\5-Stage-Pipelined-Processor\Phase1\2. Decode\write_back_stage.vhd
+Z324 FC:\Users\lenovo\Desktop\Third Year\Arch\Project\5-Stage-Pipelined-Processor\Phase1\2. Decode\write_back_stage.vhd
+l0
+L5 1
+R173
+R174
+R54
+32
+Z325 !s110 1703681124
+!i10b 1
+R309
+Z326 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\lenovo\Desktop\Third Year\Arch\Project\5-Stage-Pipelined-Processor\Phase1\2. Decode\write_back_stage.vhd|
+Z327 !s107 C:\Users\lenovo\Desktop\Third Year\Arch\Project\5-Stage-Pipelined-Processor\Phase1\2. Decode\write_back_stage.vhd|
+!i113 1
+R94
+R95
+Awrite_back_stage_arch
+R26
+R27
+R28
+R169
+!i122 5574
+l25
+R170
+R171
+R172
+R54
+32
+R325
+!i10b 1
+R309
+R326
+R327
+!i113 1
+R94
+R95
